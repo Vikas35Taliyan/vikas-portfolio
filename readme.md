@@ -7,6 +7,7 @@
 ![Thanks](https://img.shields.io/badge/Thanks-Ineuron-blue)
 
 # Portfolio
+# Live [Netlify](https://vikaskumar-portfolio.netlify.app/)
 
 > Project 16
 
